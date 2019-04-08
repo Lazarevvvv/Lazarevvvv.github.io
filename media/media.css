@@ -1,0 +1,16 @@
+@media only screen and (max-width:1170px) {
+.header, .main, .footer{
+    width: 900px
+}
+div.header div.navbar div.container div.menu a.Home,
+div.header div.navbar div.container div.menu a.Pages,
+div.header div.navbar div.container div.menu a.About,
+div.header div.navbar div.container div.menu a.Services,
+div.header div.navbar div.container div.menu a.Portfolio,
+div.header div.navbar div.container div.menu a.Shop,
+div.header div.navbar div.container div.menu a.Contact,
+div.header div.navbar div.container div.menu a.Pages{
+    font-size: 15px;
+    margin: 0 10px;
+}
+}
